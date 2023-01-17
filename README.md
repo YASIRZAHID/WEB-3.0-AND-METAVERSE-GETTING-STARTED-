@@ -6,20 +6,20 @@ if you have been assigned WEB 3.0 tasks Here is separate guide for that this Gui
 Here are few resources you can refer to for learning HTML
 
 Crash course by FreeCodeCamp
-                https://www.freecodecamp.org/news/html-crash-course/  
+    https://www.freecodecamp.org/news/html-crash-course/  
     
 Detailed HTML Documentation by W3School    
-                https://www.w3schools.com/html/default.asp      
+    ```https://www.w3schools.com/html/default.asp```      
     
 ## Step#2 Learn CSS
 
 Here are few resources you can refer to for learning CSS
 
 Detailed documentation by W3School
-                https://www.w3schools.com/css/                           
+    https://www.w3schools.com/css/                           
 
 Detailed documentation by FreeCodeCamp
-                https://www.freecodecamp.org/news/learn-css/              
+    https://www.freecodecamp.org/news/learn-css/              
     
 ## Step#3 Learning Javascript
 
