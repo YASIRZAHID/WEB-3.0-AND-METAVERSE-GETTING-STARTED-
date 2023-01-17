@@ -34,8 +34,10 @@ Course by CodeWithMosh (Youtube)(you are highly recomended to watch all of these
 https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&ab_channel=ProgrammingwithMosh
 
 Read following Books(details below the link)
-
+(For book 1 mentioned below)(optional)
 https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books
+(For book 2 mentioned below)(must)
+https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
 
 Read these books from above link (optional)
 
@@ -69,11 +71,11 @@ https://github.com/panaverse/learn-typescript
     
 Read following Books(details below the link)
 
-https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books
+https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
     
 Book to read: 
 
-    TypeScript from beginner to Professional
+    Learning TypeScript
 
 ## Step#6 Completing Typescript tasks and publishing on Node Package Manager (npm)
 
@@ -93,6 +95,10 @@ Here is repository by Sir Zia
 
 https://github.com/panaverse/learn-nextjs
     
+Refrence Books (Realworld NextJS)(must)
+
+https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
+
 Documentation By Nextjs
 
 https://nextjs.org/docs
