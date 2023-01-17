@@ -71,7 +71,8 @@ Read following Books(details below the link)
 
 https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books
     
-Book to read: TypeScript from beginner to Professional
+Book to read: 
+    TypeScript from beginner to Professional
 
 ## Step#6 Completing Typescript tasks and publishing on Node Package Manager (npm)
 
