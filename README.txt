@@ -1,4 +1,4 @@
-# Getting started with web 3.0 and Metaverse
+#Getting started with web 3.0 and Metaverse 
 
 ## Step#1 Learn HTML
 
