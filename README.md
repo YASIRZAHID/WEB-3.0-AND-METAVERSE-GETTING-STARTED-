@@ -1,5 +1,5 @@
 #   Getting started with web 3.0 and Metaverse 
-if you have been assigned WEB 3.0 tasks Here is separate guide for that this Guide is for Coding pathway
+If you have been assigned WEB 3.0 tasks Here is separate guide for that this Guide is for Coding pathway
     LINK.co
 ## Step#1 Learn HTML
 
@@ -72,6 +72,7 @@ Read following Books(details below the link)
 https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books
     
 Book to read: 
+
     TypeScript from beginner to Professional
 
 ## Step#6 Completing Typescript tasks and publishing on Node Package Manager (npm)
