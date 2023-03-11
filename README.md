@@ -60,47 +60,29 @@ Book to read:
 
 Now that you are familiar with Javscript And TypeScript complete following TypeScript-Node-Projects
 
-Here are projects you have to complete(clone them using github desktop)(Guide link below)
+[Here are projects you have to complete](https://github.com/panaverse/typescript-node-projects) (clone them using github desktop)(Guide link below)
 
-https://github.com/panaverse/typescript-node-projects
-
-Here's a step-by-step Guide to Completing Typescript Projects
-
-https://github.com/YASIRZAHID/NPMPACKAGEGUIDE
+Here's a [step-by-step Guide to Completing Typescript Projects](https://github.com/YASIRZAHID/NPMPACKAGEGUIDE)
     
 ## Step#7 Learn Next-JS 
 
-Here is repository by Sir Zia
+Here is [repository by Sir Zia to learn NextJS](https://github.com/panaverse/learn-nextjs)
 
-https://github.com/panaverse/learn-nextjs
     
-Refrence Books (Realworld NextJS)(must)
+Refrence Books [Realworld NextJS](https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H) (must)
 
-https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
+[Documentation By Nextjs](https://nextjs.org/docs)
 
-Documentation By Nextjs
-
-https://nextjs.org/docs
     
 ## Step#8 Complete NextJS tasks
 
-In following repository complete assignment 00 and 01
-
-https://github.com/panaverse/learn-nextjs
+In following repository complete [assignment 00 and 01](https://github.com/panaverse/learn-nextjs)
     
-In Following repository Complete project00_pricing_ui
-
-https://github.com/panaverse/styling-nextjs-projects
+In Following repository Complete [project00_pricing_ui](https://github.com/panaverse/styling-nextjs-projects)
 
 Optional
 
-Recreate following website and deploy on vercel
-
-panaverse.co
+Recreate [following](panaverse.co) website and deploy on vercel
     
 And deploy on Vercel    
  
-
-
-    
-    
