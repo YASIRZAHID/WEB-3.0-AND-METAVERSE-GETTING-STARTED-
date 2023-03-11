@@ -5,9 +5,7 @@ If you have been assigned WEB 3.0 tasks Here is separate guide for that this Gui
 
 Here are few resources you can refer to for learning HTML
 
-Crash course by FreeCodeCamp
-
-https://www.freecodecamp.org/news/html-crash-course/  
+[Crash course by FreeCodeCamp](https://www.freecodecamp.org/news/html-crash-course/)  
     
 Detailed HTML Documentation by W3School    
 
