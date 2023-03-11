@@ -24,7 +24,6 @@ Here are recommended javascript learning resources
 [Course by CodeWithMosh](https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&ab_channel=ProgrammingwithMosh) (Youtube)(you are highly recomended to watch all of these and practise along)(recomended)
 
 
-
 Read these books (optional)
 
 [A smarter way to learn JavaScrpt](https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books)
@@ -43,6 +42,8 @@ Complete these [45 JavaScript tasks](https://github.com/panaverse/typescript-nod
 ## Step#5 Learning TypeScript
 
 Here are recomended TypeScript Learning resources
+
+[Slides by Sir Daniyal Nagori](https://docs.google.com/presentation/d/1-7Kb3laJjJ68mOTF9v0fHImk5vTol0CeE43Sg8hoUXQ/edit?usp=sharing) 
 
 [Video course by CodeWithMosh](https://www.freecoursesonline.me/code-with-mosh-the-ultimate-typescript-course/) (recomended)(4GB file make sure internet is stable)
 
