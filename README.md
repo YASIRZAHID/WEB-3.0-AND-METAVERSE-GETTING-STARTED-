@@ -7,69 +7,50 @@ Here are few resources you can refer to for learning HTML
 
 [Crash course by FreeCodeCamp](https://www.freecodecamp.org/news/html-crash-course/)  
     
-Detailed HTML Documentation by W3School    
-
-https://www.w3schools.com/html/default.asp    
+[Detailed HTML Documentation by W3School](https://www.w3schools.com/html/default.asp)    
     
 ## Step#2 Learn CSS
 
 Here are few resources you can refer to for learning CSS
 
-Detailed documentation by W3School
+[Detailed documentation by W3School](https://www.w3schools.com/css/)                           
 
-https://www.w3schools.com/css/                           
-
-Detailed documentation by FreeCodeCamp
-
-https://www.freecodecamp.org/news/learn-css/              
+[Detailed documentation by FreeCodeCamp](https://www.freecodecamp.org/news/learn-css/)              
     
 ## Step#3 Learning Javascript
 
 Here are recommended javascript learning resources
 
-Course by CodeWithMosh (Youtube)(you are highly recomended to watch all of these and practise along)(recomended)
+[Course by CodeWithMosh](https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&ab_channel=ProgrammingwithMosh) (Youtube)(you are highly recomended to watch all of these and practise along)(recomended)
 
-https://www.youtube.com/watch?v=upDLs1sn7g4&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&ab_channel=ProgrammingwithMosh
 
-Read following Books(details below the link)
-(For book 1 mentioned below)(optional)
-https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books
-(For book 2 mentioned below)(must)
-https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
 
-Read these books from above link (optional)
+Read these books (optional)
 
-        A smarter way to learn JavaScrpt   
+        [A smarter way to learn JavaScrpt](https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books)
         
 and (must)
 
-        JavaScript Fro Beginner to Profssional
+        [JavaScript Fro Beginner to Profssional](https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H)
     
-Practice these Excercises(optional)
+Practice these [Excercises](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) (optional)
 
-https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional
 
 ## Step#4 Complete Javascript Assignments
 
-Complete these 45 JavaScript tasks and submit them on the link provided by the PIAIC
-
-https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md
+Complete these [45 JavaScript tasks](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md) and submit them on the link provided by the PIAIC
 
 ## Step#5 Learning TypeScript
 
 Here are recomended TypeScript Learning resources
 
-Video course by CodeWithMosh(recomended)(4GB file make sure internet is stable)
+[Video course by CodeWithMosh](https://www.freecoursesonline.me/code-with-mosh-the-ultimate-typescript-course/) (recomended)(4GB file make sure internet is stable)
 
-https://www.freecoursesonline.me/code-with-mosh-the-ultimate-typescript-course/
+
     
-Typescript Repository by Sir Zia(recomended must)(clone repository using github desktop Apendix A)
-
-https://github.com/panaverse/learn-typescript
+[Typescript Repository by Sir Zia](https://github.com/panaverse/learn-typescript) (recomended must)(clone repository using github desktop Apendix A)
     
-Read following Books(details below the link)
-
-https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H
+Read following [Books](https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H) (details below the link)
     
 Book to read: 
 
