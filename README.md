@@ -35,7 +35,7 @@ and (must)
 Practice these [Excercises](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) (optional)
 
 
-## Step#4 Complete Javascript Assignments(if given in Typescript complete step 5 first)
+## Step#4 Complete Javascript Assignments(If given in Typescript complete step#5 first)
 
 Complete these [45 JavaScript tasks](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md) and submit them on the link provided by the PIAIC
 
