@@ -1,7 +1,7 @@
 #   Getting started with web 3.0 and Metaverse 
 If you have been assigned WEB 3.0 tasks Here is separate guide for that this Guide is for Coding pathway
     LINK.co
-## Step#1 Learn HTML
+## Step#1 Learn HTML(Optional)
 
 Here are few resources you can refer to for learning HTML
 
@@ -9,7 +9,7 @@ Here are few resources you can refer to for learning HTML
     
 [Detailed HTML Documentation by W3School](https://www.w3schools.com/html/default.asp)    
     
-## Step#2 Learn CSS
+## Step#2 Learn CSS(Optional)
 
 Here are few resources you can refer to for learning CSS
 
@@ -17,7 +17,7 @@ Here are few resources you can refer to for learning CSS
 
 [Detailed documentation by FreeCodeCamp](https://www.freecodecamp.org/news/learn-css/)              
     
-## Step#3 Learning Javascript
+## Step#3 Learning Javascript(Optional)
 
 Here are recommended javascript learning resources
 
@@ -35,7 +35,7 @@ and (must)
 Practice these [Excercises](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) (optional)
 
 
-## Step#4 Complete Javascript Assignments
+## Step#4 Complete Javascript Assignments(if given in Typescript complete step 5 first)
 
 Complete these [45 JavaScript tasks](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md) and submit them on the link provided by the PIAIC
 
