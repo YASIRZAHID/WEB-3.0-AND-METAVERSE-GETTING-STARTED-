@@ -27,11 +27,11 @@ Here are recommended javascript learning resources
 
 Read these books (optional)
 
-        [A smarter way to learn JavaScrpt](https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books)
+[A smarter way to learn JavaScrpt](https://github.com/rrizwan98/Web-3.0-Books/tree/main/Javascript%20%26%20TypeScript%20books)
         
 and (must)
 
-        [JavaScript Fro Beginner to Profssional](https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H)
+[JavaScript Fro Beginner to Profssional](https://drive.google.com/drive/folders/1X5fm6z3Ad7WzFDFemx4B7hL2qLSyUv6H)
     
 Practice these [Excercises](https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional) (optional)
 
