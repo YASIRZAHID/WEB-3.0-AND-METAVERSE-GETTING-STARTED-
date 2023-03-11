@@ -60,7 +60,7 @@ Book to read:
 
 Now that you are familiar with Javscript And TypeScript complete following TypeScript-Node-Projects
 
-[Here are projects you have to complete](https://github.com/panaverse/typescript-node-projects) (clone them using github desktop)(Guide link below)
+Here are [projects you have to complete](https://github.com/panaverse/typescript-node-projects) (clone them using github desktop)(Guide link below)
 
 Here's a [step-by-step Guide to Completing Typescript Projects](https://github.com/YASIRZAHID/NPMPACKAGEGUIDE)
     
